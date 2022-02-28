@@ -1,0 +1,420 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Something concerning Agbarus, Prince of the Edesseans with his epistle to Christ, and Christ's epistle in answer thereto : also Paul's epistle to the Laodiceans, with the manner of his death and his exhortation to his persecutors : a catalogue of those Scriptures mentioned, but not inserted in the Bible : as also how several Scriptures are corrupted by the translators, with the difference betwixt the old and new translations.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93548</idno>
+            <idno type="STC">Wing S4656</idno>
+            <idno type="STC">ESTC R42886</idno>
+            <idno type="EEBO-CITATION">38875900</idno>
+            <idno type="OCLC">ocm 38875900</idno>
+            <idno type="VID">152387</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93548)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152387)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2295:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Something concerning Agbarus, Prince of the Edesseans with his epistle to Christ, and Christ's epistle in answer thereto : also Paul's epistle to the Laodiceans, with the manner of his death and his exhortation to his persecutors : a catalogue of those Scriptures mentioned, but not inserted in the Bible : as also how several Scriptures are corrupted by the translators, with the difference betwixt the old and new translations.</title>
+               </titleStmt>
+               <extent>8, 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by T. Sowle ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697-1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophons, p. 8 of both pagings.</note>
+                  <note>Imperfect: stained.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Abgar --  V, --  King of Edessa, 4 B.C.-50 A.D.</term>
+               <term>Apocryphal books (New Testament) --  Commentaries.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="list_of_subjects">
+            <pb n="1" facs="tcp:152387:1" rendition="simple:additions"/>
+            <list>
+               <item>Something concerning <hi>Agbarus,</hi> Prince of the <hi>Edeſſeans;</hi> With his Epiſtle to Chriſt, and <hi>Chriſt's</hi> Epiſtle in Anſwer thereto.</item>
+               <item>Alſo <hi>Paul</hi>'s Epiſtle to the <hi>Laodiceans;</hi> with the Manner of his Death, and his Exhortation to his Per<g ref="char:EOLhyphen"/>ſecutors.</item>
+               <item>A Catalogue of thoſe Scriptures menti<g ref="char:EOLhyphen"/>oned, but not inſerted in the Bible.</item>
+               <item>As Alſo, How ſeveral Scriptures are cor<g ref="char:EOLhyphen"/>rupted by the Tranſlators: With the Difference betwixt the Old and New Tranſlations.</item>
+            </list>
+         </div>
+      </front>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="to_the_reader">
+                  <p>AFter that Jeſus Chriſt was made manifeſt unto all men, through the working of Miracles, he drew unto him an innume<g ref="char:EOLhyphen"/>rable ſort of Strangers, far diſtant from <hi>Judea</hi> (afflicted with ſundry Diſeaſes, and every ſort of Maladies, hoping to recover their Health) of which number King <hi>Agbarus,</hi> Governour of the
+<pb n="2" facs="tcp:152387:2"/>famous Nations Inhabiting beyond the River <hi>Eu<g ref="char:EOLhyphen"/>phrates</hi> grievouſly diſeaſed in Body, incurable by mans Cunning, hearing the renowned Fame of Jeſus, the wonderful Works which he wrought, agreeable unto the ſame, publiſhed of all men, wrote unto him by Letters, requiring deliverance from his Diſeaſe; Jeſus (though not preſently) yielded unto his deſire, vouchſafed to Anſwer him by an Epiſtle, that ſhortly he would ſend one of his Diſciples, which ſhould cure his Diſeaſe; pro<g ref="char:EOLhyphen"/>miſing withall, that he ſhould not only cure his Diſeaſe, but as many as belonged unto him; which Promiſe he not long after performed: for after his Reſurrection, <hi>Thomas,</hi> one of the Twelve Apoſtles, ſent his Brother <hi>Thaddaus,</hi> accounted among the Seventy Diſciples of Chriſt by Divine Inſpiration, into the City of <hi>Edeſſa,</hi> to be Prea<g ref="char:EOLhyphen"/>cher of the Doctrine of Chriſt whom all things, which concerned the Promiſe of Chriſt, were per<g ref="char:EOLhyphen"/>formed.</p>
+                  <p>The Reader hath an approved Teſtimony of theſe things in writing, taken out of the recorded Monuments of the Princely City <hi>Edeſſa;</hi> for there are found, inrolled in their publick Regiſtry, things of Antiquity, and which were done about <hi>Agba<g ref="char:EOLhyphen"/>rus</hi>'s time, yea and preſerved unto this day; there is no reaſon to the contrary but that we may have the Epiſtles themſelves copied out of their Regi<g ref="char:EOLhyphen"/>ſtry, and tranſlated by us out of the <hi>Syrian</hi> Tongue, in this manner.</p>
+               </div>
+            </front>
+            <body>
+               <div type="letter">
+                  <pb n="3" facs="tcp:152387:2"/>
+                  <head>The Epiſtle of <hi>Agbarus</hi> unto our <hi>Saviour.</hi>
+                  </head>
+                  <opener>
+                     <signed>
+                        <hi>AGbarus</hi> Governour of <hi>Edeſſa,</hi>
+                     </signed>
+                     <salute>un<g ref="char:EOLhyphen"/>to Jeſus the good Saviour, ſhewing himſelf in <hi>Jeruſalem,</hi> ſendeth Greeting;</salute>
+                  </opener>
+                  <p>I have heard of thee, and of thy Cures, which thou haſt done without Medicines and Herbs; for (as the Report goeth) thou makeſt the Blind to ſee, the Lame to go, the Lepers thou cleanſeſt, ſoul Spirits and De<g ref="char:EOLhyphen"/>vils thou caſteſt out, and long Diſeaſed thou reſtoreſt to Health, and raiſeſt the Dead to Life. When that I heard theſe things of thee, I imagined with my ſelf one of theſe two things, either that thou art God come from heaven, and doſt theſe things; or the Son of God, that bringeth theſe things to paſs. Wherefore, by theſe my Letters, I beſeech thee to take the pains to come unto me, and that thou wilt cure this my grie<g ref="char:EOLhyphen"/>vous Malady, where with I am ſore vex<g ref="char:EOLhyphen"/>ed. I have heard moreover, that the <hi>Jews</hi> murmer againſt thee, and go about to miſ<g ref="char:EOLhyphen"/>chief thee; I have here a little City, and an honeſt, which will ſuffice us both.</p>
+                  <p>
+                     <hi>Theſe things he wrote after this man<g ref="char:EOLhyphen"/>ner, being a little lightned from above: I think it alſo not amiſs to hear the Let<g ref="char:EOLhyphen"/>ter
+<pb n="4" facs="tcp:152387:3"/>of Jeſus Chriſt ſent back to</hi> Agbarus, <hi>by the ſame bearer.</hi>
+                  </p>
+               </div>
+               <div type="letter">
+                  <head>The Epiſtle of <hi>Chriſt</hi> unto <hi>Agbarus.</hi>
+                  </head>
+                  <opener>
+                     <salute>AGbarus,</salute>
+                  </opener>
+                  <p>Bleſſed art thou, becauſe thou haſt believed in me, when thou ſaweſt me not; for it is written of me, <hi>That they which ſee me, ſhall not believe in me, that they which ſee me not, may believe and be ſaved.</hi> Concerning that thou wroteſt unto me, that I ſhould come unto thee, I let thee underſtand, that all things touching my Meſſage, are here to be fulfilled; and after the fulneſs thereof, I am to return again to him that ſent me. But after my Aſcen<g ref="char:EOLhyphen"/>ſion, I wil ſend one of my Diſciples unto thee, which ſhall cure thy Malady, and reſtore Life to thee and them that be with thee.</p>
+               </div>
+               <div type="addenda_to_the_letters">
+                  <pb n="5" facs="tcp:152387:3"/>
+                  <head>
+                     <g ref="char:V">Ʋ</g>nto theſe Epiſtles. there were alſo theſe things added in the <hi>Syrian</hi> Tongue.</head>
+                  <p>When <hi>Jeſus</hi> was taken up. <hi>Judas</hi> (which alſo is called <hi>Thomas</hi>) ſent unto him <hi>Thaddaus</hi> the Apoſtle, one of the Seventy, who when he came, remain<g ref="char:EOLhyphen"/>ed with one <hi>Tobias,</hi> the Son of <hi>Tobias:</hi> When that the Fame was ſpread of him, and that he was made manifeſt by the Miracles which he wrongth, it was ſignified unto <hi>Agbarus,</hi> and ſaid, the Apoſtle of <hi>Jeſus</hi> is come, of whom he wrote unto thee. <hi>Thaddaus</hi> by that time, began, through the power of God, to cure every ſore and Sickneſs, that all men great<g ref="char:EOLhyphen"/>ly marvelled. <hi>Agbarus</hi> hearing of the weighty and wonderful Works which he wrought, that he cured in the Name and Power of Jeſus, forth<g ref="char:EOLhyphen"/>with ſuſpected the ſame to be he of whom Jeſus had written; ſaying, After mine aſcenſion, I will ſend one of my Diſciples unto thee, which ſhall cure thy Malady. And when he had called to him <hi>Tobias,</hi> where <hi>Thaddaus</hi> lodged, he ſaid unto him, I hear ſay that a certain mighty man come from <hi>Jeruſalem,</hi> is lodged with thee, and cureth many in the Name of <hi>Jeſus;</hi> who made Anſwer and ſaid, Yea, there came a certain Stranger and lodg<g ref="char:EOLhyphen"/>ed at my Houſe, which hath done wonderful things; to whom the King ſaid, Bring him unto me; <hi>Tobias</hi> returning unto <hi>Thaddaus,</hi> ſaid unto him, <hi>Agbarus</hi> the Governour ſent for me, and com<g ref="char:EOLhyphen"/>manded that I ſhould bring thee unto him, that thou may'ſt cure his Diſeaſe; <hi>Thaddaus</hi> anſwered, I go; for it is for his ſake that I am ſent thus mightily to work: <hi>Tobias</hi> beſtirring betimes the
+<pb n="6" facs="tcp:152387:4"/>next Day, took with him <hi>Thaddaus,</hi> and came to <hi>Agbarus;</hi> as he came, even at his entrance, there appeared unto <hi>Agbarus,</hi> in the preſence of his chief Men, a great and ſtrange ſhew, in the counte<g ref="char:EOLhyphen"/>nance of <hi>Thaddaus</hi> the Apoſtle, at which ſight <hi>Ag<g ref="char:EOLhyphen"/>barus</hi> did reverence unto <hi>Thaddaus,</hi> ſo that all they that were in preſence marvelled, none of them ſaw the ſight ſave <hi>Agbarus</hi> alone, which que<g ref="char:EOLhyphen"/>ſtioned with <hi>Thaddaus,</hi> and ſaid, Art thou of a truth a Diſciple of <hi>Jeſus</hi> the Son of God, who made me this promiſe, I will ſend unto thee one of my Diſciples, which ſhall cure thy Diſeaſe, and ſhew Life unto thee and all thine? To whom <hi>Thaddaus</hi> made anſwer, Becauſe thou haſt greatly believed in the Lord Jeſus which ſent me, therefore am I ſent unto thee; but in caſe thou believe in him as yet, thy hearty deſires according to thy Faith, thou ſhalt obtain; to whom <hi>Agbarus</hi> ſaid, I have continued ſo believeing in him, that I could have found in my heart mightily to deſtroy the <hi>Jews</hi> which crucified him, were not the <hi>Roman</hi> Empire a Let unto my purpoſe: <hi>Thaddaus</hi> ſaid again, our Lord and God Jeſus Chriſt fulfilled the will of his Father, which being finiſhed, he is aſcended unto him; <hi>Abgarus</hi> anſwered and I have belleved in him and his Father: to whom <hi>Thaddaus</hi> repli<g ref="char:EOLhyphen"/>ed, therefore in the Name of the ſelf-ſame Lord Jeſus I lay my hand upon thee; which, when he had done, he was forthwith cured of his Malady, and delivered of the Pain that preſſed him ſore; <hi>Agbarus</hi> marvelled at this, that even as it was re<g ref="char:EOLhyphen"/>ported to him of Jeſus, ſo in truth by his Diſci<g ref="char:EOLhyphen"/>ple and Apoſtle <hi>Thaddaus,</hi> without Apothecary-ſtuff, and virtue of Herbs he was cured; and not only he, but alſo <hi>Abdus,</hi> the Son of <hi>Abdus,</hi> grieved with the Gout, and falling at the feet of <hi>Thaddaus</hi>
+                     <pb n="7" facs="tcp:152387:4"/>recovered his former health: By the laying on of his hands he cured alſo many other of his Fellow-Citizens, working miraculouſly, and miraculous things, and preaching the Word of God; to whom <hi>Agbarus</hi> ſaid again, Thou <hi>Thaddaus</hi> through the Power of God doſt theſe things, and we have thee in admiration: I pray thee, moreover, that thou expound unto me the Coming of Jeſus, how he was made Man, his Might, and by what Power he brought ſuch things, as We have heard, to paſs; to whom <hi>Thadaus</hi> ſaid, At this ſeaſon I will be ſi<g ref="char:EOLhyphen"/>lent, though I am ſent to preach this Word; but to morrow call together all thy People, and Fel<g ref="char:EOLhyphen"/>low-Citizens, then will I ſhew unto them the Word of God, and ſow the Word of Life, and teach the manner of his Coming, how he was made Man, of his Meſſage, and to what end he came, being ſent from the Father; moreover of his Miracles and Myſteries uttered in this VVorld, and Power in bringing things to paſs; and be<g ref="char:EOLhyphen"/>ſides this, his new Preaching, and how baſe, ſlen<g ref="char:EOLhyphen"/>der and humble he ſeemed in outward appear<g ref="char:EOLhyphen"/>ance; how he humbled himſelf, and died, what great things he ſuffered of the <hi>Jews;</hi> how he was crucified, and deſcended into Hell, and rent the Hedge and middle VVall, never ſevered before, and raiſed the dead, that of long time had ſlept; how that he deſcended alone, but aſcended unto the Father accompanied with many; how he ſitteth in glory at the Right hand of God the Father, in Heaven; and laſt of all, how he ſhall come again with Glory and Power to judge both the quick and dead.</p>
+                  <p>VVhen Morning was come, <hi>Agbarus</hi> com<g ref="char:EOLhyphen"/>manded his Citizens to be gathered together to hear <hi>Thaddaus,</hi> which being ended, he charged,
+<pb n="8" facs="tcp:152387:5"/>Gold, Coyned and Uncoyned, ſhould be given to him; but he received it not; ſaying, Inſomuch that we have forſaken our own, how can we re<g ref="char:EOLhyphen"/>ceive other mens?</p>
+                  <p>Theſe things were done the three and fortieth year, which being tranſlated word for word out of the <hi>Syrian</hi> Tongue, we thought not amiſs to declare in this manner.</p>
+                  <p>
+                     <hi>Jerom,</hi> with other grave Writers, affirmeth ſuch Circumſtances to have been: <hi>Euſebius,</hi> whoſe Credit herein is not ſmall, reporteth the ſame to have been taken out of their Records in the City of <hi>Edeſſa,</hi> regiſtred there in the <hi>Syrian</hi> Tongue, and by him Tranſlated out of the <hi>Syrian</hi> into the <hi>Greek</hi> Tongue.</p>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>
+                     <hi>London,</hi> Printed and Sold by <hi>T. Sowle</hi> next Door to the <hi>Meeting-Houſe</hi> in <hi>VVhite-Hart-Court</hi> in <hi>Gracious-ſtreet;</hi> and at the <hi>Bible</hi> in <hi>Leaden-hall-ſtreet</hi> near the <hi>Market,</hi> 1697.</p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="apocryphal_epistle">
+                  <pb n="1" facs="tcp:152387:5" rendition="simple:additions"/>
+                  <head>THE EPISTLE OF PAUL TO THE LAODICEANS.</head>
+                  <p n="1">1. <hi>PA<g ref="char:V">Ʋ</g>L</hi> an Apoſtle, not of man, nor by man, but by Jeſus Chriſt.</p>
+                  <p n="2">2. To the Brethren which are at <hi>LAODI<g ref="char:EOLhyphen"/>CEA,</hi> Grace and Peace be with you from God the Father, and the Lord Jeſus Chriſt.</p>
+                  <p n="3">3. I thank my God in all my Prayers, that you remain ſteadfaſt in him, and in all his works; waiting upon his promi<g ref="char:EOLhyphen"/>ſes to the day of Judg<g ref="char:EOLhyphen"/>ment.</p>
+                  <p n="4">4. And be not ſeduced by ſome unprofitable talkers, who go about to cauſe you to fall from the Goſpel, which was preached unto you by me.</p>
+                  <p n="5">5. Oh that they that were inſtructed by me, might ſerve to the profit of the Goſpel of Truth, and become diligent in good works of Eternal Life.</p>
+                  <p n="6">6. And henceforth are my bonds manifeſt, which I ſuffer for Chriſts ſake.</p>
+                  <p n="7">7. Whereof I rejoyce in Heart, and Account it Eternal Salvation.</p>
+                  <p n="8">8. That ſuch is done through your Prayers, by the working of the Holy Spirit, whether by Life or Death.</p>
+                  <p n="9">9. For I have a will and a joy to die in Chriſt, who will through the ſame mercy give you to have the ſame love, and to be of one mind.</p>
+                  <p n="10">10. Therefore beloved Brethren, as you have heard in my Preſence, that keep, and finiſh in the fear of God, ſo ſhall you have Eternal Life; for God will work it, and prefect it in you without delay.</p>
+                  <p n="11">11. My beloved, re<g ref="char:EOLhyphen"/>joyce in the Lord, and take heed of them that are diſirous after filthy lucre.</p>
+                  <p n="12">12. Let your prayers be manifeſt unto God, and remain firm in the knowledge of Chriſt.</p>
+                  <p n="13">13. And do that which is meet, convenient, juſt
+<pb n="2" facs="tcp:152387:6"/>and reaſonable, and what you have heard and re<g ref="char:EOLhyphen"/>ceived, that keep in your hearts; So ſhall you have Praiſe.</p>
+                  <p n="14">14. The Grace of God and our Lord Jeſus Chriſt, be with your ſpi<g ref="char:EOLhyphen"/>rits, Amen.</p>
+                  <p>
+                     <hi>Cauſe this Epiſtle to be read unto the</hi> Coloſ<g ref="char:EOLhyphen"/>ſians, <hi>and read you that which is writ<g ref="char:EOLhyphen"/>ten unto the</hi> Coloſ<g ref="char:EOLhyphen"/>ſians. <hi>Read</hi> Col. 4.16.</p>
+                  <argument>
+                     <p>
+                        <hi>This Epiſtle of</hi> Paul <hi>to the</hi> Laodiceans <hi>was found in the Oldeſt Bible that was Prin<g ref="char:EOLhyphen"/>ted at</hi> Worms.</p>
+                  </argument>
+               </div>
+               <div type="notice">
+                  <p>IN a Tranſlation of the New-Teſtament into both Latine and Engliſh, each correſpondent one to another, after the vulgar Text, commonly called St. <hi>Jerom</hi>'s, faithfully tranſlated by <hi>John Hollybuſh,</hi> 1538. and Printed in <hi>Southwark</hi> by <hi>James Nichol<g ref="char:EOLhyphen"/>ſon,</hi> and ſet forth by the Kings Licence, I find in the ſixth Chapter of <hi>Luke,</hi> it is thus in the Margent, af<g ref="char:EOLhyphen"/>ter the fifth and ſixth verſes, after theſe words, <hi>The Son of Man is Lord alſo of the Sabbath;</hi> In one of the Greek Copies this followeth, <hi>viz. Jeſus ſeeing a cer<g ref="char:EOLhyphen"/>tain Man working on the Sabbath day, ſaid unto him, O Man, if thou didſt know indeed what thou doſt, thou art happy; But if thou knoweſt not, thou art accurſed, and a Tranſgreſſor of the Law.</hi>
+                  </p>
+               </div>
+               <div type="account_of_the_death_of_St._Paul">
+                  <head>Concerning the Death of <hi>PA<g ref="char:V">Ʋ</g>L.</hi>
+                  </head>
+                  <p>
+                     <hi>PA<g ref="char:V">Ʋ</g>L</hi> being delive<g ref="char:EOLhyphen"/>red by <hi>Nero</hi> bound unto <hi>Longinus,</hi> and <hi>Ma<g ref="char:EOLhyphen"/>giſtus</hi> the Chief Officers, and <hi>Aceſtus</hi> the Centuri<g ref="char:EOLhyphen"/>on, that they ſhould lead him without the City, and cauſe him to be be<g ref="char:EOLhyphen"/>headed: And <hi>Paul</hi> be<g ref="char:EOLhyphen"/>ing full of the Holy
+<pb n="3" facs="tcp:152387:6"/>Ghoſt, ſpake the words of Eternal Life, that both <hi>Nero</hi> and all ſhould be<g ref="char:EOLhyphen"/>lieve in Jeſus Chriſt, who was King of <hi>Heaven</hi> and <hi>Earth,</hi> who would deſtroy the Glory of the World with Fire. When they had led him away, <hi>Longinus, Magiſtus,</hi> and <hi>Aceſtus</hi> began to ſay un<g ref="char:EOLhyphen"/>to him, tell us, O <hi>Paul,</hi> where is that King, and where will he appear un<g ref="char:EOLhyphen"/>to you, and how will you know him? And what will he give unto you? or what good will he be<g ref="char:EOLhyphen"/>ſtow upon you, that you Chriſtians ſo mightily love him, that by no means, you will conſent unto our Religion, that you may live and enjoy the good of this life: But rather than all the plea<g ref="char:EOLhyphen"/>ſures of delight, to be led to die for him with di<g ref="char:EOLhyphen"/>vers Torments; for this ſeems to us to be a great error, to hate this joy<g ref="char:EOLhyphen"/>ful life, and to embrace with all your deſire, pu<g ref="char:EOLhyphen"/>niſhment and death? <hi>Paul</hi> therefore ſaith, O ye wiſe men, and flouriſh<g ref="char:EOLhyphen"/>ing in knowledge, de<g ref="char:EOLhyphen"/>part out of the darkneſs and error, wherein the Nobility of your under<g ref="char:EOLhyphen"/>ſtanding is clouded with darkneſs, leſt you ſhould ſee the Truth, which li<g ref="char:EOLhyphen"/>eth hid in you; return the eyes of your minds to the <hi>eternal</hi> and <hi>true Light,</hi> that ye may be able firſt to know your ſelves, and ſo come to the know<g ref="char:EOLhyphen"/>ledge of that King with galdneſs, and to be ſaved from that Fire which is to come upon the World, and to remain unhurt; for we do not war, as you think, for ſome earthly King, but the living God, the Kingdom without end; who by reaſon of the iniquities that's done in this World he will come a Judge, and will Judge it by Fire; happy will that man be, who will believe in him, he ſhall have Eternal Life, and ſhall live World without end; and moſt unhappy is he, who de<g ref="char:EOLhyphen"/>ſpiſing the riches of his bounties and long-ſuffer<g ref="char:EOLhyphen"/>ing, will not return un<g ref="char:EOLhyphen"/>to him, for he ſhall pe<g ref="char:EOLhyphen"/>riſh Eternally.</p>
+               </div>
+               <div type="catalogue_of_apocryphal_biblical_books">
+                  <pb n="4" facs="tcp:152387:7"/>
+                  <head>A Catalogue of thoſe Scriptures which are mentioned but not inſerted in the Bible.</head>
+                  <p>THe Propheſie of <hi>Enoch,</hi> mentioned <hi>Jude</hi> 14. The Book of <hi>Jehu,</hi> mentioned 2 <hi>Chron.</hi> 20.34. The Book of the Batts of the Lord, mention'd <hi>Numb.</hi> 21.14. The Book of <hi>Nathan</hi> the Prophet, the Book <hi>Iddo,</hi> the Prophiſie of <hi>Ahijah,</hi> mentioned 2 <hi>Chron.</hi> 9.19. The Book of <hi>Shemaiah</hi> the Prophet, mentioned 2 <hi>Chron.</hi> 12.15. The Book of <hi>Jaſhar,</hi> mentioned 2 <hi>Sam.</hi> 1.18. The Book of <hi>Gad,</hi> 1 <hi>Chron.</hi> 29.29. One Epi<g ref="char:EOLhyphen"/>ſtle to the <hi>Corinthians,</hi> mentioned 1 <hi>Cor.</hi> 5.9. The firſt Epiſtle to the <hi>Epheſians,</hi> mentioned <hi>Eph.</hi> 3.3. The Epiſtle to the <hi>Laodiceans,</hi> mentioned <hi>Coloſ.</hi> 4.16. The Books of <hi>Henoch,</hi> mentioned in the Epiſtle of <hi>Thadeus, Origen,</hi> and <hi>Tertullian;</hi> The Books of <hi>So<g ref="char:EOLhyphen"/>lomons</hi> three Thouſand Proverbs, and one Thou<g ref="char:EOLhyphen"/>ſand Songs, with his Books of the Nature of Trees, Plants, Beaſts and Fiſhes, mentioned 1 <hi>Kings</hi> 4.32.33. The Epiſtle fathered upon <hi>Barnabas,</hi> the Re<g ref="char:EOLhyphen"/>velation of <hi>Peter,</hi> the Doctrine called the Apoſtles, mentioned in <hi>Euſebius, Lib.</hi> 3. <hi>Chap.</hi> 22.</p>
+               </div>
+               <div type="list_of_corrupted_biblical_passages">
+                  <head>SEVERAL SCRIPTURES Corrupted by the TRANSLATORS.</head>
+                  <list>
+                     <item>
+                        <bibl>Jude 14.</bibl> 
+                        <q>BEhold the Lord cometh with ten Thou<g ref="char:EOLhyphen"/>ſands of his Saints,</q> in the Greek it is, <q>in Ten Thouſands, <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</q>
+                     </item>
+                     <item>
+                        <bibl>Heb. 1.3.</bibl> 
+                        <q>Expreſs Image of his Perſon,</q> Greek <q>Subſtance, or Subſiſtance,<gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>
+                        </q>
+                     </item>
+                     <item>
+                        <bibl>Heb. 2.16.</bibl> 
+                        <q>He took not on him the nature of Angels,</q> in the <hi>Greek,</hi> 
+                        <q>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</q> which is by true Interpretation, <q>he doth not take hold of Angels;</q> as for the word <hi>Nature,</hi> which is in our Engliſh Copies, there is nothing for it in the <hi>Greek</hi>
+                     </item>
+                     <item>
+                        <pb n="5" facs="tcp:152387:7"/>
+                        <bibl>Mat. 3.11.</bibl> In <hi>Beza</hi>'s Latine Teſtament, and our Engliſh Copies, it is rendered, <q>I indeed baptize you with Water,</q> and from the word (with water) is the Act of ſprinkling pleaded for; in the <hi>Greek</hi> it is <q>I dip, plung, or baptize you in water, in it, <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</q>
+                     </item>
+                     <item>
+                        <bibl>Col. 1.23.</bibl> In the Latine and Engliſh Copies it is thus, <q>which was preached to every Creature which is under Heaven;</q> in the Greek it is, <q>in every Crea<g ref="char:EOLhyphen"/>ture, <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</q>
+                     </item>
+                     <item>
+                        <bibl>Luke. 16.15.</bibl> In the Latine and Engliſh Copies; <q>it is that which is highly eſteemed amongſt Men;</q> in the Greek it is, <q>in men. <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</q>
+                     </item>
+                     <item>
+                        <bibl>1 Cor. 15.31.</bibl> In our Engliſh Copies it is, <q>I pro<g ref="char:EOLhyphen"/>teſt by your rejoycing, <hi>&amp;c.</hi>
+                        </q> Now <hi>I proteſt</hi> is added, for there is nothing for it in the Greek, <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</item>
+                     <item>
+                        <bibl>1 Cor. 2.6.</bibl> 
+                        <q>We ſpeak Wiſdom among them that are perfect;</q> in the Greek it is, <q>in them that are per<g ref="char:EOLhyphen"/>fect, <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</q>
+                     </item>
+                     <item>
+                        <bibl>Rom. 8.29.</bibl> In the Engliſh and Latine Copies it is, <q>that he might be the Firſt-born among many Bre<g ref="char:EOLhyphen"/>thren;</q> It is <q>in many Brethren, <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</q>
+                     </item>
+                     <item>
+                        <bibl>Mat. 28.19.</bibl> In the Engliſh and Latine Copies it is, <q>baptizing them in the Name;</q> In the Greek it is, <q>into the Name, <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</q>
+                     </item>
+                     <item>
+                        <bibl>Mat. 6.7.</bibl> In the Engliſh Copies it is, <q>for they think they ſhall be heard for their much ſpeaking;</q> In the Greek it is, <q>in their much ſpeaking, <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</q>
+                     </item>
+                     <item>
+                        <bibl>1 Tim. 3.16.</bibl> In our Engliſh and Latine Coples it is, <q>Great is the Myſtery of Godlineſs, God was ma<g ref="char:EOLhyphen"/>nifeſt in the Fleſh, juſtified in the Spirit, ſeen of Angels, Preached unto the Gentiles,</q> In the Greek it is, <q>Preached in the Gentiles, <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</q>
+                     </item>
+                     <item>
+                        <bibl>Rom. 11.2.</bibl> In the Latine and Engliſh Copies it is, <q>Wot you not what the Scripture ſaith of <hi>Elias;</hi>
+                        </q> But in the <hi>Greek</hi> it is, <q>in Elias, <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</q> 
+                        <bibl>Heb. 1.1.</bibl>
+                     </item>
+                     <item>
+                        <pb n="6" facs="tcp:152387:8"/>
+                        <bibl>Heb. 1.1.</bibl> 
+                        <p>
+                           <q>God <hi>&amp;c.</hi> ſpoke to the Fathers by the Prophets;</q> in the Greek it is, <q>God ſpoke to the Fa<g ref="char:EOLhyphen"/>thers in the Prophets, <gap reason="foreign">
+                                 <desc>〈 in non-Latin alphabet 〉</desc>
+                              </gap>.</q>
+                        </p>
+                        <p>
+                           <q>Hath in the laſt Days ſpoken unto us by his Son;</q> In the <hi>Greek</hi> it is, <q>hath ſpoken unto us in his Son, <gap reason="foreign">
+                                 <desc>〈 in non-Latin alphabet 〉</desc>
+                              </gap>.</q>
+                        </p>
+                     </item>
+                     <item>
+                        <bibl>Rom. 15.6.</bibl> 
+                        <q>That you may with one mind, and one mouth glorifie God;</q> in the Greek it is, <q>in one mouth, <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</q>
+                     </item>
+                     <item>
+                        <bibl>Rom. 1.19.</bibl> In the Greek, Latine, and Engliſh Copies it is, (ſpeaking of the Gentiles) <q>that which is known of God, is manifeſt in them, or made known in them;</q> though ſome dare ſay, and do ſay, <q>among them.</q>
+                     </item>
+                     <item>
+                        <bibl>Amos. 3.6.</bibl> 
+                        <q>Shall there be evil in a City, and the Lord hath not done it?</q> This is the Engliſh Tranſ<g ref="char:EOLhyphen"/>lation; In the Hebrew it is, <q>ſhall there be evil in a Ci<g ref="char:EOLhyphen"/>ty, and ſhall not the Lord do ſomewhat?</q>
+                     </item>
+                     <item>
+                        <bibl>Heb. 5.laſt.</bibl> 
+                        <q>Strong Meat belongeth to them that are full of Age;</q> In the Greek it is, <q>Strong meat belongeth to them that are perfect. <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</q>
+                     </item>
+                     <item>
+                        <bibl>Job. 8.6.</bibl> In our Engliſh Copies it is, <q>Jeſus ſtoop<g ref="char:EOLhyphen"/>ed down, and with his finger wrote on the ground, as though he heard them not;</q> as for the words <q>(as though he heard them not)</q> they are added by the Tranſlators, for there is nothing in the Greek for them, <q>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</q>
+                     </item>
+                     <item>
+                        <bibl>Job. 1.14.</bibl> 
+                        <q>The Word became Fleſh, and dwelt amongſt us,</q> in the Greek it is, <q>in us, <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</q> By true Interpretation it is, <q>The Word became Fleſh, and pitch'd his tent in us.</q>
+                     </item>
+                     <item>
+                        <bibl>Heb. 10.20.</bibl> In the Engliſh Copies it is, <q>by a new and living way;</q> in the Greek it is, <q>of late ſlain and living way, <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>
+                        </q> properly ſignifies <hi>recens ma<g ref="char:EOLhyphen"/>ctatus, lately, or of late ſlain,</hi> ſaith <hi>Leigh</hi> and <hi>Paſor.</hi>
+                     </item>
+                  </list>
+               </div>
+               <div type="explanation_of_translation_difference">
+                  <pb n="7" facs="tcp:152387:8"/>
+                  <head>THE DIFFERENCE BETWIXT THE Old Tranſlation and the New.</head>
+                  <p>
+                     <label>Old Teſtamant:</label>
+                     <q>IF any one want Light, let him look upon the Law and the Teſtimony, whether they ſpeak after this meaning; If he do not this, he ſtumbles, and ſuffers hunger; and if he ſuffers hunger, he is not patient, but blaſphemeth his King and his God; then look<g ref="char:EOLhyphen"/>eth he upward and downward to the Earth, and behold there is trouble and darkneſs, vexation is round about him, and the cloud of Error; and out of ſuch adverſity ſhall he not eſcape, even like as in time paſt it hath been ſeen well.</q> This is the Old Tranſlation. <bibl>Iſa. 8.</bibl>
+                  </p>
+                  <p>
+                     <label>New Tranſlation thus:</label> 
+                     <q>To the Law and to the Teſti<g ref="char:EOLhyphen"/>mony, if they ſpeak not according to this Word, it is be<g ref="char:EOLhyphen"/>cauſe there is no Light in them; And they ſhall paſs through it hardly beſtead, and hungry; and it ſhall come to paſs, that when they ſhall be hungry, they ſhall fret themſelves, and curſe their King and their God, and look upward, and they ſhall look unto the Earth, and behold trouble and darkneſs, and dimneſs of Anguiſh; and they ſhall be driven to darkneſs,</q> 
+                     <bibl>Iſai. 8.20, 21, 22.</bibl>
+                  </p>
+                  <p>
+                     <label>Old Tranſlation.</label> 
+                     <bibl>Prov. 23.</bibl> 
+                     <q>When thou ſitteſt at the Table with a Lord, order thy ſelf mannerly with the things ſet before thee; Meaſure thine Appetite; and if thou wilt rule thy own ſelf, be not over gree<g ref="char:EOLhyphen"/>dy of his meat; for meat beguiles and deceives.</q>
+                  </p>
+                  <p>
+                     <label>New Tranſlation thus:</label> 
+                     <q>When thou ſitteſt to eat with a Ruler, conſider diligently what is before thee; and put a knife to thy throat, if thou be a man given to Ap<g ref="char:EOLhyphen"/>petite: Be not deſirous of his dainties: for they are deceitful meat,</q> 
+                     <bibl>Prov. 23.1, 2, 3.</bibl>
+                  </p>
+                  <p>
+                     <label>Old Tranſlation.</label> 
+                     <bibl>Amos 3.</bibl> 
+                     <q>Cry they out alarm with the Trumpet in the City, and the People not afraid? Cometh there any Plague in a City with<g ref="char:EOLhyphen"/>out it be the Lords doing?</q>
+                  </p>
+                  <p>
+                     <label>New Tranſlation thus:</label> 
+                     <q>Shall a Trumpet be blown
+<pb n="8" facs="tcp:152387:9"/>in the City, and the People not be afraid? Shall there b<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> evil in a City, and the Lord hath not done it?</q> 
+                     <bibl>Hoſea 5.6.</bibl>
+                  </p>
+                  <p>In <bibl>Heb. 3.</bibl> In the New Tranſlation it is ſaid; <q>Who being the brightneſs of his Glory, and the Ex<g ref="char:EOLhyphen"/>preſs Image of his Perſon.</q>
+                  </p>
+                  <p>But in the Old Tranſlation it reads thus: <q>Being the brightneſs of his Glory, and the very Image of his Sub<g ref="char:EOLhyphen"/>ſtance.</q>
+                  </p>
+                  <p>In <bibl>2 Cor 2. <hi>Chap. the laſt</hi> verſe,</bibl> in the Engliſh it is: <q>We do not corrupt the World.</q> But in the Latine it is, <q>We do not ſell the Word for Money.</q>
+                  </p>
+                  <p>Old Tranſlation, <bibl>Epiſtle of <hi>Jude</hi> latter end,</bibl> it is, <q>
+                        <g ref="char:V">Ʋ</g>nto him that is able to keep you free from Sin, and to preſent you faultleſs.</q>
+                  </p>
+                  <p>In the New Tranſlation it is, <q>Unto him that is able to keep you from falling, <hi>&amp;c.</hi>
+                     </q>
+                  </p>
+                  <p>Old Tranſlation <bibl>Tim. 3.</bibl> At the end of the Chap. It is, <q>All Scripture given by Inſpiration of God, <hi>is pro<g ref="char:EOLhyphen"/>fitable to teach, to improve,</hi> &amp;c.</q>
+                  </p>
+                  <p>In the New Tranſlation it is, <q>
+                        <hi>All Scripture,</hi> is gi<g ref="char:EOLhyphen"/>ven by Inſpiration of God, and is profitable <hi>for Doc<g ref="char:EOLhyphen"/>trine, for Reproof, for Correction,</hi> &amp;c.</q>
+                  </p>
+                  <p>Old Tranſlation, <bibl>Mic. 3.</bibl> About the beginning of the Chap. It is ſaid: <q>And as concerning the Pro<g ref="char:EOLhyphen"/>phets that deceive my People, thus ſaith the Lord againſt them, when they have any thing to bite up<g ref="char:EOLhyphen"/>on. then they preach, that all ſhall be well; but if a man put not ſomething into their mouths, they preach of War againſt him.</q>
+                  </p>
+                  <p>
+                     <label>New Tranſlation:</label> 
+                     <q>Thus ſayeth the Lord concerning the Prophets, that make my People Err, that bite with their Teeth, and cry Peace; and he that putteth not into their mouths, they even prepair War againſt him.</q>
+                  </p>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>
+                     <hi>London,</hi> Printed and Sold by <hi>T. Sowle,</hi> in <hi>White-Hart-Court,</hi> next Door to the <hi>Meeting-Houſe,</hi> in <hi>Gracious-Street.</hi> 1698.</p>
+               </div>
+            </back>
+         </text>
+      </group>
+   </text>
+</TEI>
